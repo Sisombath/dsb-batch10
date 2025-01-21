@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at sisombath4455@gmail.com
 
 ## image 
-![A cute cat](https://www.easygifanimator.net/images/samples/video-to-gif-sample.gif)
+![A diagram of a network](diagrams/network_topology.svg "A complex network topology")
