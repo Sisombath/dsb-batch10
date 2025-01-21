@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at sisombath4455@gmail.com
 
 ## image 
-![A diagram of a network](diagrams/network_topology.svg "A complex network topology")
+![Image in subdirectory](images/another_image.png)
